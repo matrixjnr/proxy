@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 host="127.0.0.1"
 port=8888
 byte=8192
